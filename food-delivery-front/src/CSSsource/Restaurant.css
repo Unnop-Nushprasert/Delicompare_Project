@@ -1,0 +1,269 @@
+table.custom {
+    width: 100%;
+    white-space: pre-wrap;
+    list-style-position: outside;
+    border: 0.5vw ridge #4F7849;
+}
+
+table.custom2 {
+    width: 95%;
+    height: 8%;
+    white-space: pre-wrap;
+    list-style-position: outside;
+    border: 0.5vw ridge #4F7849;
+    position: absolute;
+    top: 45%;
+    left: 3%;
+}
+
+table.custom3 {
+    width: 95%;
+    height: 20%;
+    white-space: pre-wrap;
+    list-style-position: outside;
+    border: 0.5vw ridge #4F7849;
+    position: absolute;
+    top: 55%;
+    left: 3%;
+}
+
+table.custom4 {
+    width: 83.9%;
+    height: 2%;
+    white-space: pre-wrap;
+    list-style-position: outside;
+    border: 0.5vw ridge #4F7849;
+    position: relative;
+    top: 6.4%;
+    left: 5%;
+}
+
+th.custom {
+    background-color: #CEE0CC;
+    text-align: center;
+    border: 0.5vw ridge #4F7849;
+}
+
+th.custom2 {
+    background-color: #4F7849;
+    text-align: center;
+    border: 0.5vw ridge #4F7849;
+}
+
+th.custom3 {
+    background-color: #4F7849;
+    text-align: center;
+    border: 0.5vw ridge #4F7849;
+}
+
+th.custom4 {
+    background-color: #ff0000;
+    text-align: center;
+    border: 0.5vw ridge #4F7849;
+}
+
+td.foodlistlm {
+    background-image: url("AppIcon/lineman.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 5px solid #4F7849;
+}
+
+tr.searchres {
+    height: 300px;
+    line-height: 1.1;
+    text-indent: 10%;
+    text-shadow: 0 0 0.1vw #FF0000;
+    font-size: 2vw;
+    text-align: center;
+    border: 0.5vw solid #4F7849;
+}
+
+td.searchres {
+    border: 5px ridge #4F7849;
+}
+
+tr.foodlistlm {
+    width: 200px;
+    height: 300px;
+    line-height: 1.5;
+    text-indent: 10%;
+    text-shadow: 0 0 3px #FF0000;
+    font-size: 30px;
+    text-align: center;
+    border: 5px solid #4F7849;
+}
+
+.foodlistlm {
+    margin: 40px 0 0 0;
+    text-indent: 10%;
+    text-shadow: 0 0 3px #FF0000;
+    text-align: center;
+}
+
+tr.foodlistgb {
+    width: 200px;
+    height: 300px;
+    background-image: url("AppIcon/Grab.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    line-height: 1.5;
+    text-indent: 10%;
+    text-shadow: 0 0 3px #FF0000;
+    font-size: 30px;
+    text-align: center;
+}
+
+.foodlistgb {
+    margin: 40px 0 0 0;
+    text-indent: 10%;
+    text-shadow: 0 0 3px #FF0000;
+    text-align: center;
+}
+
+tr.foodlistrb {
+    width: 200px;
+    height: 300px;
+    background-image: url("AppIcon/Robinhood.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    line-height: 1.5;
+    text-indent: 10%;
+    text-shadow: 0 0 3px #FF0000;
+    font-size: 30px;
+    text-align: center;
+}
+
+.foodlistrb {
+    margin: 40px 0 0 0;
+    text-indent: 10%;
+    text-shadow: 0 0 3px #FF0000;
+    text-align: center;
+}
+
+tr.foodlistfp {
+    width: 200px;
+    height: 300px;
+    background-image: url("AppIcon/Foodpanda.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    line-height: 1.5;
+    text-indent: 10%;
+    text-shadow: 0 0 3px #FF0000;
+    font-size: 30px;
+    text-align: center;
+}
+
+.foodlistfp {
+    margin: 40px 0 0 0;
+    text-indent: 10%;
+    text-shadow: 0 0 3px #FF0000;
+    text-align: center;
+}
+
+
+.numberorder {
+    position: relative;
+    left: 12%;
+}
+
+.page {
+    color: rgb(3, 0, 0);
+    width: 5%;
+    height: 0.8%;
+    position: relative;
+    left: 11%;
+    top: 7.7%;
+    font-size: 1.2vw;
+    font-family: 'Sriracha', cursive;
+    text-align: center;
+    background-color: #CEE0CC;
+    border-radius: 1vw;
+    overflow: hidden;
+}
+
+.page2 {
+    color: rgb(3, 0, 0);
+    width: 5%;
+    height: 4.5%;
+    position: absolute;
+    left: 11.5%;
+    top: 39.5%;
+    font-size: 1.2vw;
+    font-family: 'Sriracha', cursive;
+    text-align: center;
+    background-color: #CEE0CC;
+    border-radius: 1vw;
+    overflow: hidden;
+}
+
+.restaurantNameH {
+    color: red;
+    width: 8%;
+    height: 6%;
+    position: absolute;
+    left: 45%;
+    top: 10%;
+    font-size: 1.9vw;
+    font-family: 'Sriracha', cursive;
+    border: 0.5vw ridge #4F7849;
+    background-color: #CEE0CC;
+    text-align: center;
+    
+}
+
+.restaurantName {
+    color: red;
+    width: 500%;
+    height: 200%;
+    position: relative;
+    right: 210%;
+    font-size: 1.9vw;
+    font-family: 'Sriracha', cursive;
+    border: 0.5vw ridge #4F7849;
+    background-color: #CEE0CC;
+    text-align: center;
+    overflow: hidden;
+}
+
+.warning {
+    color: red;
+    width: auto;
+    font-size: 16px;
+    font-family: 'Sriracha', cursive;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+.FoodH {
+    font-size: 1.5vw;
+    font-family: 'Sriracha', cursive;
+    overflow: hidden;
+}
+
+.PriceH {
+    font-size: 26px;
+    font-family: 'Sriracha', cursive;
+}
+
+.PriceHover {
+    font-size: 26px;
+    font-family: 'Sriracha', cursive;
+}
+
+.PriceHover:hover  + .HoverTotal {
+    display: block;
+}
+
+.PriceHover:hover {
+    background-color: #ff0000;
+    border-radius: 2vw;
+}
+
+.HoverTotal {
+    display: none;
+}

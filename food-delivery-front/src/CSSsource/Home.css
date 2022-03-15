@@ -1,0 +1,180 @@
+.picHome {
+  background-image: url("http://localhost:3000/images/grabrider.jpg");
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 90vw;
+}
+
+.picHome2 {
+  background-image: url("http://localhost:3000/images/linemanrider.jpg");
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 90vw;
+}
+
+.picHome3 {
+  background-image: url("http://localhost:3000/images/robinhoodrider.jpg");
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 180vw;
+}
+
+.picHome4 {
+  background-image: url("http://localhost:3000/images/foodpandarider.jpg");
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 180vw;
+}
+
+
+.content {
+  color: #429662;
+  width: 20%;
+  height: 10%;
+  position: absolute;
+  left: 40%;
+  top: 5%;
+  font-size: 3vw;
+  font-family: 'Sriracha', cursive;
+  border: 0.5vw ridge #4F7849;
+  background-color: #CEE0CC;
+  text-align: center;
+}
+
+.content2 {
+  color: #429662;
+  width: 20%;
+  height: 10%;
+  position: absolute;
+  left: 20%;
+  top: 5%;
+  font-size: 3vw;
+  font-family: 'Sriracha', cursive;
+  border: 0.5vw ridge #4F7849;
+  background-color: #CEE0CC;
+  text-align: center;
+}
+
+.content3 {
+  color: #429662;
+  width: 24%;
+  height: 8%;
+  position: absolute;
+  left: 38%;
+  top: 32%;
+  font-size: 2vw;
+  font-family: 'Sriracha', cursive;
+  border: 0.5vw ridge #4F7849;
+  background-color: #CEE0CC;
+  text-align: center;
+  overflow: hidden;
+}
+
+.googlemap {
+  position: absolute;
+  top: 0%;
+  left: 0%;
+}
+
+.googlemap2 {
+  position: absolute;
+  top: 0%;
+  left: 0%;
+}
+
+.searchrestaurant {
+  position: absolute;
+  top: 20%;
+  left: 5%;
+  width: 35%;
+  height: 4%;
+  display: inline-block;
+  padding: 0.6vw 1vw;
+  line-height: 140%;
+  font-size: 1.5vw;
+  border: 0.5vw ridge #4F7849;
+  font-family: 'Sriracha', cursive;
+}
+
+.searchrestaurant2 {
+  position: absolute;
+  top: 20%;
+  left: 30%;
+  width: 35%;
+  height: 4%;
+  display: inline-block;
+  padding: 0.6vw 1vw;
+  line-height: 140%;
+  font-size: 1.5vw;
+  border: 0.5vw ridge #4F7849;
+  font-family: 'Sriracha', cursive;
+}
+
+.searchrestaurant3 {
+  position: relative;
+  top: 6%;
+  left: 30%;
+  width: 35%;
+  height: 0.8%;
+  display: inline-block;
+  padding: 0.6vw 1vw;
+  line-height: 140%;
+  font-size: 1.5vw;
+  border: 0.5vw ridge #4F7849;
+  font-family: 'Sriracha', cursive;
+}
+
+.searchfood {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  width: 35%;
+  height: 4%;
+  display: inline-block;
+  padding: 0.6vw 1vw;
+  line-height: 140%;
+  font-size: 1.5vw;
+  border: 0.5vw ridge #4F7849;
+  font-family: 'Sriracha', cursive;
+}
+
+.searchfood2 {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  width: 40%;
+  display: inline-block;
+  padding: 15px 10px;
+  line-height: 140%;
+  font-size: 30px;
+  border: 10px ridge #4F7849;
+  font-family: 'Sriracha', cursive;
+}
+
+.searchbar {
+  position: absolute;
+  top: 20%;
+  left: 33%;
+  width: 55%;
+  height: 4%;
+  display: inline-block;
+  padding: 0.6vw 1vw;
+  line-height: 140%;
+  font-size: 1.5vw;
+  border: 0.5vw ridge #4F7849;
+  font-family: 'Sriracha', cursive;
+}
+
+.location {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}

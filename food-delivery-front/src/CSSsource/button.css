@@ -1,0 +1,346 @@
+.buttonred {
+    padding: 5px 10px;
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #aa0404;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    position: relative;
+    left: 10%;
+    font-family: 'Sriracha', cursive;
+  }
+  
+.buttonred:hover {background-color: #1d1c1c}
+  
+.buttonred:active {
+    background-color: #aa0404;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+.buttongreen {
+    padding: 5px 8px;
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #04aa28;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    position: relative;
+    left: 14%;
+    font-family: 'Sriracha', cursive;
+}
+  
+.buttongreen:hover {background-color: #1d1c1c}
+  
+.buttongreen:active {
+    background-color: #04aa28;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+.buttonhome {
+  font-size: 1.7vw;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #04aa28;
+  border: none;
+  border-radius: 1vw;
+  box-shadow: 0 0.3vw #999;
+  position: absolute;
+  height: 7%;
+  width: 7%;
+  left: 6%;
+  top: 8%;
+  font-family: 'Sriracha', cursive;
+  overflow: hidden
+}
+
+.buttonhome:hover {background-color: #1d1c1c}
+
+.buttonhome:active {
+  background-color: #04aa28;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.buttonsearch {
+  font-size: 1.7vw;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #04aa28;
+  border: none;
+  border-radius: 1vw;
+  box-shadow: 0 0.3vw #999;
+  position: absolute;
+  height: 7%;
+  width: 15%;
+  left: 50%;
+  top: 8%;
+  font-family: 'Sriracha', cursive;
+  overflow: hidden
+}
+
+.buttonsearch:hover {background-color: #1d1c1c}
+
+.buttonsearch:active {
+  background-color: #04aa28;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.buttonsearchres {
+  padding: 10px 5px;
+  font-size: 35px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #04aa28;
+  border: none;
+  border-radius: 15px;
+  position: relative;
+  right: 5%;
+  width: 80%;
+  font-family: 'Sriracha', cursive;
+  overflow: hidden;
+}
+
+.buttonsearchres:hover {background-color: #1d1c1c}
+
+.buttonsearchres:active {
+  background-color: #04aa28;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.buttonsearch2 {
+  font-size: 1.7vw;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #04aa28;
+  border: none;
+  border-radius: 1vw;
+  box-shadow: 0 0.3vw #999;
+  position: absolute;
+  height: 7%;
+  width: 15%;
+  left: 70%;
+  top: 8%;
+  font-family: 'Sriracha', cursive;
+  overflow: hidden
+}
+
+.buttonsearch2:hover {background-color: #1d1c1c}
+
+.buttonsearch2:active {
+  background-color: #04aa28;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+
+.buttonmap2 {
+  font-size: 1.7vw;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #04aa28;
+  border: none;
+  border-radius: 1vw;
+  box-shadow: 0 0.3vw #999;
+  position: absolute;
+  height: 7%;
+  width: 14%;
+  left: 75%;
+  top: 8%;
+  font-family: 'Sriracha', cursive;
+  overflow: hidden
+}
+
+.buttonmap2:hover {background-color: #1d1c1c}
+
+.buttonmap2:active {
+  background-color: #04aa28;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+
+
+.buttonconfirm {
+  font-size: 1.7vw;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #04aa28;
+  border: none;
+  border-radius: 1vw;
+  box-shadow: 0 0.3vw #999;
+  position: absolute;
+  height: 7%;
+  width: 20%;
+  left: 12%;
+  top: 21%;
+  font-family: 'Sriracha', cursive;
+  overflow: hidden
+}
+
+.buttonconfirm:hover {background-color: #1d1c1c}
+
+.buttonconfirm:active {
+  background-color: #04aa28;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+
+.buttonreset {
+  font-size: 1.7vw;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #04aa28;
+  border: none;
+  border-radius: 1vw;
+  box-shadow: 0 0.3vw #999;
+  position: absolute;
+  height: 7%;
+  width: 20%;
+  left: 72%;
+  top: 20%;
+  font-family: 'Sriracha', cursive;
+  overflow: hidden
+}
+
+.buttonreset:hover {background-color: #1d1c1c}
+
+.buttonreset:active {
+  background-color: #04aa28;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.buttonpageup {
+  font-size: 0.9vw;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #04aa28;
+  border: none;
+  border-radius: 1vw;
+  box-shadow: 0 0.3vw #999;
+  position: relative;
+  height: 0.5%;
+  width: 2%;
+  left: 17%;
+  top: 8.4%;
+  font-family: 'Sriracha', cursive;
+  overflow: hidden
+}
+
+.buttonpageup:hover {background-color: #1d1c1c}
+
+.buttonpageup:active {
+  background-color: #04aa28;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.buttonpagedown {
+  font-size: 0.9vw;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #04aa28;
+  border: none;
+  border-radius: 1vw;
+  box-shadow: 0 0.3vw #999;
+  position: relative;
+  height: 0.5%;
+  width: 2%;
+  left: 6%;
+  top: 8.4%;
+  font-family: 'Sriracha', cursive;
+  overflow: hidden
+}
+
+.buttonpagedown:hover {background-color: #1d1c1c}
+
+.buttonpagedown:active {
+  background-color: #04aa28;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.buttonpageup2 {
+  font-size: 0.9vw;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #04aa28;
+  border: none;
+  border-radius: 1vw;
+  box-shadow: 0 0.3vw #999;
+  position: absolute;
+  height: 3%;
+  width: 2%;
+  left: 17%;
+  top: 40%;
+  font-family: 'Sriracha', cursive;
+  overflow: hidden
+}
+
+.buttonpageup2:hover {background-color: #1d1c1c}
+
+.buttonpageup2:active {
+  background-color: #04aa28;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.buttonpagedown2 {
+  font-size: 0.9vw;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #04aa28;
+  border: none;
+  border-radius: 1vw;
+  box-shadow: 0 0.3vw #999;
+  position: absolute;
+  height: 3%;
+  width: 2%;
+  left: 9%;
+  top: 40%;
+  font-family: 'Sriracha', cursive;
+  overflow: hidden
+}
+
+.buttonpagedown2:hover {background-color: #1d1c1c}
+
+.buttonpagedown2:active {
+  background-color: #04aa28;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
