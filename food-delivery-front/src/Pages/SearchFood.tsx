@@ -150,8 +150,8 @@ export default function SearchFood() {
             
             await directionsService
                 .route({
-                    origin: new google.maps.LatLng((+guest[0].latitude), (+guest[0].longitude)),
-                    destination: new google.maps.LatLng((+item.latitude),(+item.longitude)),
+                    origin: new google.maps.LatLng((+item.latitude),(+item.longitude)),
+                    destination: new google.maps.LatLng((+guest[0].latitude), (+guest[0].longitude)),
                     travelMode: google.maps.TravelMode.DRIVING,
                 })
                 .then(async (response) => {

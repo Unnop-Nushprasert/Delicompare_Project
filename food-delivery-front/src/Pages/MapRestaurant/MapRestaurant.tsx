@@ -76,8 +76,8 @@ const MapRestaurant: React.FC<IMap> = ({ mapType, mapTypeControl = false, restau
         
         directionsService
           .route({
-            origin: new google.maps.LatLng((+guest.guest_info.latitude), (+guest.guest_info.longitude)),
-            destination: new google.maps.LatLng((+restaurant.restaurant_info.latitude),(+restaurant.restaurant_info.longitude)),
+            origin: new google.maps.LatLng((+restaurant.restaurant_info.latitude),(+restaurant.restaurant_info.longitude)),
+            destination: new google.maps.LatLng((+guest.guest_info.latitude), (+guest.guest_info.longitude)),
             travelMode: google.maps.TravelMode.DRIVING,
           })
           .then(async (response) => {
